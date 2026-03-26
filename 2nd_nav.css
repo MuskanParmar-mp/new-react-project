@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.navbar {
+     display: flex;
+   justify-content: space-between;
+     align-items: center;
+    padding: 10px 15px;
+    background-color: blueviolet;
+} 
+
+.logo img {
+    width:max -content;
+    height: 50px;
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+
+}
+
+.navbar ul li {
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.navbar button{
+    background-color: blanchedalmond;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    border-radius: 10px;
+    padding-bottom: 7px;
+    
+    
+}

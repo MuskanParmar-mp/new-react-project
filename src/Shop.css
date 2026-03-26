@@ -1,0 +1,41 @@
+.shop-title {
+  text-align: start;
+  font-size: 44px;
+  margin-left: 52px;
+  margin-top: 70px;
+  font-weight: 600;
+  
+}
+
+.shop-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  gap: 25px;
+  padding: 20px 40px;
+  margin-top: 30px;
+}
+
+
+.shop-item {
+  text-align: center;
+  cursor: pointer;
+}
+
+.shop-item img {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+
+.shop-item img:hover {
+  transform: scale(1.05);
+}
+
+.shop-item p {
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 400;
+} 
