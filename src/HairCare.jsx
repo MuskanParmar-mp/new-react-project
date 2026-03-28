@@ -43,7 +43,7 @@ function HairCare() {
             
             <li style={{marginBottom:"8px"}}>Treat (27)</li>
             
-            <li style={{marginBottom:"8px"}}>Nourish (7)</li>
+            <li style={{marginBottom:"8px"}}>Nourishh (7)</li>
           </ul>
 
           <h3 style={{marginBottom:"11px", fontSize:"17px" , fontWeight:"bold"}}>Type of Product</h3>
