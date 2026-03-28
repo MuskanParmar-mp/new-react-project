@@ -550,7 +550,7 @@ function Home() {
       <p className="text-gray-500 text-sm mt-2"   style={{marginLeft:"150px"}}>
         Ingredients sourced from across the world
       </p>
-    </div>
+    </div> 
 
   </div>
 </div>  

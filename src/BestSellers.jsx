@@ -14,7 +14,7 @@ function BestSellers() {
       {/* Heading */}
       <h1 className="text-4xl font-semibold text-center" style={{marginTop:"30px"}}>Best Sellers</h1>
       <p className="text-center text-gray-500 mb-10" style={{marginTop:"30px"}}>
-        Top Selling products on Minimalist
+        Top Selling products on Minimalist pro
       </p>
 
       <div className="flex gap-1">
