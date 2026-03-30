@@ -23,7 +23,7 @@ function Layout({ cart }){
           <ul>
             <Link to="/shop"> <li>Shop</li> </Link>
             <Link to="/bestseller"> <li>Best Seller</li> </Link>
-            <li>Skin & Body Care</li>
+            <Link to="/bodycare"> <li>Body Care</li> </Link>
             <Link to="/babycare"> <li>Baby Care</li> </Link>
             <Link to="/haircare"> <li>Hair Care</li> </Link>
             <li>Track Order</li>
