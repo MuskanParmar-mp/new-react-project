@@ -37,7 +37,7 @@ function BestSellers() {
           <ul className=" text-gray-900 space-y-1" style={{marginBottom:"77px"}}>
             <li style={{marginBottom:"8px"}}>Skin (49)</li>
             <li style={{marginBottom:"8px"}}>Hair (12)</li>
-            <li style={{marginBottom:"8px"}}>Body (7)</li>
+            <li style={{marginBottom:"8px"}}>Body (5)</li>
             <li style={{marginBottom:"8px"}}>Eye (1)</li>
             <li style={{marginBottom:"8px"}}>Baby (4)</li>
           </ul>
