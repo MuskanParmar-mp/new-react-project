@@ -12,9 +12,9 @@ function BestSellers() {
     <div className="min-h-screen">
 
       {/* Heading */}
-      <h1 className="text-4xl font-semibold text-center" style={{marginTop:"30px"}}>Best Sellers</h1>
+      <h1 className="text-4xl font-semibold text-center" style={{marginTop:"30px"}}>Skin & Body Care</h1>
       <p className="text-center text-gray-500 mb-10" style={{marginTop:"30px"}}>
-        Top Selling products on Minimalist 
+        Shop our efficacious, transparent, and research-backed range of skincare products. Each product is formulated to target your specific skin concerns.
       </p>
 
       <div className="flex gap-1">
