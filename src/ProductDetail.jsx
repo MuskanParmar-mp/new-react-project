@@ -68,7 +68,7 @@ function ProductDetail({ cart, setCart }) {
 >
   ADD TO CART
 </button>
-<button> Buy Now </button>
+<button style={{padding:"4px"}}> Buy Now </button>
         </div>
 
       </div>
