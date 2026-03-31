@@ -30,9 +30,9 @@ function ProductDetail({ cart, setCart }) {
         </div>
 
         {/* RIGHT DETAILS */}
-        <div style={{ maxWidth: "500px", marginTop:"130px" }}>
+        <div style={{ maxWidth: "520px", marginTop:"130px" }}>
 
-          <h1 style={{ fontSize: "28px", marginBottom: "20px" }}>
+          <h1 style={{ fontSize: "32px", marginBottom: "20px",  }}>
             {product.name}
           </h1>
 
@@ -68,7 +68,15 @@ function ProductDetail({ cart, setCart }) {
 >
   ADD TO CART
 </button>
-<button style={{padding:"4px" , backgroundColor:"black", color:"white"}}> Buy Now </button>
+<button style={{
+    background: "black",
+    color: "white",
+    padding: "12px 40px",
+    width: "100%",
+    position: "relative",
+    zIndex: 10,
+    marginTop:"11px",
+  }}> Buy Now </button>
         </div>
 
       </div>
