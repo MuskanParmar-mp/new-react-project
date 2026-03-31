@@ -30,7 +30,7 @@ function ProductDetail({ cart, setCart }) {
         </div>
 
         {/* RIGHT DETAILS */}
-        <div style={{ maxWidth: "500px", marginTop:"70px" }}>
+        <div style={{ maxWidth: "500px", marginTop:"130px" }}>
 
           <h1 style={{ fontSize: "28px", marginBottom: "20px" }}>
             {product.name}
@@ -40,9 +40,9 @@ function ProductDetail({ cart, setCart }) {
             {product.desc}
           </p>
 
-          <h2 style={{ marginBottom: "32px" }}>
+          <h1 style={{ marginBottom: "32px" }}>
             ₹{product.price}
-          </h2>
+          </h1>
 
           {/* QUANTITY */}
           <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBottom: "20px" }}>
@@ -68,6 +68,7 @@ function ProductDetail({ cart, setCart }) {
 >
   ADD TO CART
 </button>
+<button> Buy Now </button>
         </div>
 
       </div>
