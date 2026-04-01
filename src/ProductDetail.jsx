@@ -8,6 +8,14 @@ const products = [
     image: "/m1.avif",
     desc: "This soothing toner blends Vitamin B12 with hydrating humectants to deeply replenish the skin. Its lightweight, fast-absorbing formula features amino acids, Natural Moisturising Factors, Hyaluronic Acid, Trehalose, and Betaine to boost moisture and prevent water loss. With added Panthenol, it calms, nourishes, and leaves skin balanced and hydrated."
 
+  },
+  {
+    id: 2,
+    name: "Face Toner",
+    price: 399,
+    image: "/face.jpg",
+    desc: "This soothing toner blends Vitamin B12 with hydrating humectants to deeply replenish the skin. Its lightweight, fast-absorbing formula features amino acids, Natural Moisturising Factors, Hyaluronic Acid, Trehalose, and Betaine to boost moisture and prevent water loss. With added Panthenol, it calms, nourishes, and leaves skin balanced and hydrated."
+
   }
 ];
 
@@ -32,7 +40,7 @@ function ProductDetail({ cart, setCart }) {
         {/* RIGHT DETAILS */}
         <div style={{ maxWidth: "520px", marginTop:"130px" }}>
 
-          <h1 style={{ fontSize: "32px", marginBottom: "20px",  }}>
+          <h1 style={{ fontSize: "32px", marginBottom: "20px",   }}>
             {product.name}
           </h1>
 
