@@ -27,7 +27,7 @@ function HairCare() {
             <option>Price, low to high </option>
             <option>Date, old to new</option>
             <option>Date, new  to old</option>
-            <option>Price, high  to low</option>
+            <option>Price, high  to Low</option>
            
           </select>
 
