@@ -24,7 +24,7 @@ function HairCare() {
           <select className="border p-15 mb-6" style={{padding:"6px", width:"160px" , marginBottom:"60px"}}>
             <option>Featured</option>
             <option>Best Selling </option>
-            <option>Price, low to high </option>
+            <option>Price, Low to high </option>
             <option>Date, old to new</option>
             <option>Date, New  to old</option>
             <option>Price, high  to Low</option>
