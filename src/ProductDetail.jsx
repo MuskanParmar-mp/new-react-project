@@ -16,7 +16,15 @@ const products = [
     image: "/face.jpg",
     desc: "This soothing toner blends Vitamin B12 with hydrating humectants to deeply replenish the skin. Its lightweight, fast-absorbing formula features amino acids, Natural Moisturising Factors, Hyaluronic Acid, Trehalose, and Betaine to boost moisture and prevent water loss. With added Panthenol, it calms, nourishes, and leaves skin balanced and hydrated."
 
-  }
+  },
+  {
+    id: 3,
+    name: "Face Toner",
+    price: 499,
+    image: "/pro2.avif",
+    desc: "This soothing toner blends Vitamin B12 with hydrating humectants to deeply replenish the skin. Its lightweight, fast-absorbing formula features amino acids, Natural Moisturising Factors, Hyaluronic Acid, Trehalose, and Betaine to boost moisture and prevent water loss. With added Panthenol, it calms, nourishes, and leaves skin balanced and hydrated."
+
+  },
 ];
 
 function ProductDetail({ cart, setCart }) {

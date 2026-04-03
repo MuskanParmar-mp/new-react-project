@@ -209,13 +209,7 @@ function Home() {
            </div> 
             <p className="text-sm mt-1" style={{marginBottom:"29px",fontSize:"16px"}}>On Sale from ₹379</p>
 
-           <button
-              
-              onClick={() => setOpenIndex(openIndex === 1 ? null : 1)}
-              className="bg-black text-white w-full " style={{padding:"6px"}}
-            >
-              Select Size
-            </button>
+           <button onClick={() => navigate("/product/3")} className="bg-black text-white w-full " style={{padding:"6px"}}> Shop Now</button>
             
             {openIndex === 1 && (
               <div className="border mt-2">
