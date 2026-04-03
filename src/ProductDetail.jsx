@@ -19,10 +19,10 @@ const products = [
   },
   {
     id: 3,
-    name: "Face Toner",
-    price: 499,
+    name: "Sunscreen",
+    price: 379,
     image: "/pro2.avif",
-    desc: "This soothing toner blends Vitamin B12 with hydrating humectants to deeply replenish the skin. Its lightweight, fast-absorbing formula features amino acids, Natural Moisturising Factors, Hyaluronic Acid, Trehalose, and Betaine to boost moisture and prevent water loss. With added Panthenol, it calms, nourishes, and leaves skin balanced and hydrated."
+    desc: "Sun protection, UV exposure"
 
   },
 ];
