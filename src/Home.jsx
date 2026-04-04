@@ -258,7 +258,7 @@ function Home() {
               onClick={() => setOpenIndex(openIndex === 2 ? null : 2)}
               className="bg-black text-white w-full " style={{padding:"6px"}}
             >
-              Select Size
+              Select  Size
             </button>
             
             {openIndex === 2 && (
