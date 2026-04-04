@@ -327,7 +327,7 @@ function Home() {
 <div style={{ margin: "50px" , width:"1200px",height:"90px"}}>
 
   <h1 className="text-3xl font-semibold mb-6">
-    Your Products
+    Your  Products
   </h1>
 
   <div className="grid grid-cols-4 gap-6" >
