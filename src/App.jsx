@@ -15,6 +15,7 @@ import CRUD from "./CRUD";
 import ProductDetail from "./ProductDetail";
 import Cart from "./Cart";
 import Counter from "./Counter";
+import Uneventone from "./Uneventone";
 
 
 
@@ -42,6 +43,7 @@ function App(){
       <Route path="/crud" element={<CRUD />} />
       <Route path="/product/:id" element={<ProductDetail cart={cart} setCart={setCart} />} />
       <Route path="/cart" element={<Cart cart={cart} />} />
+      <Route path="/uneventone" element={<Uneventone/>} />
       
       </Route>
      </Routes>

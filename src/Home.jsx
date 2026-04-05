@@ -470,8 +470,13 @@ function Home() {
         <div className="grid grid-cols-4 gap-7" style={{marginLeft:"32px", marginRight:"32px", gap:"2px"}}>
 
           <div className="relative">
-            <img src="/1.avif" className="w-7xl h-[250px] object-cover" style={{height:"220px" , width:"290px"}}/>
-            
+            {/* <img src="/1.avif" className="w-7xl h-[250px] object-cover" style={{height:"220px" , width:"290px"}}/> */}
+             <img
+        src="/1.avif"
+        className="w-7xl h-[250px] object-cover"
+        style={{ height: "220px", width: "290px", cursor: "pointer" }}
+        onClick={() => navigate("/Uneventone")}
+      />
             <p className="text-center " style={{fontSize:"17px" , fontFamily:"sans-serif", margin:"26px"}}>Uneven Tone</p>
           </div>
 
