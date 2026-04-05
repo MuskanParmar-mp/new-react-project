@@ -71,7 +71,7 @@ function Uneventone() {
             {/* PRODUCT 1 */}
             <div>
               <TiltedCard
-                imageSrc="/pro1.avif"
+                imageSrc="/un1.avif"
                 containerHeight="580px"
                 containerWidth="250px"
                 imageHeight="480px"
@@ -81,11 +81,12 @@ function Uneventone() {
               />
               <div style={{marginLeft:"-43px", marginTop:"-110px"}}> 
               <h2  className=" text-black mt-10 text-" style={{marginTop:"80px", fontSize:"20px" , marginBottom:"10px" }}>
-                Salicylic Acid + LHA 2% Cleanser
+                Vitamin C 10% Face Serum
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
-                Acne, Breakouts & Oiliness
+                Dullness, Spots & Loss of Elasticity
+
               </p>
 
               <div  className="icon" style={{display:"flex" , gap:"5px", marginBottom:"12px" , fontSize:"15px"}} >
@@ -93,7 +94,7 @@ function Uneventone() {
               </div>
 
               
-              <p>₹284 <span className="line-through text-gray-400 " >₹350</span></p>
+              <p>₹299 <span className="line-through text-gray-400 " >₹350</span></p>
 
               <button
                 onClick={() => setOpenIndex(openIndex === 0 ? null : 0)}
@@ -104,8 +105,8 @@ function Uneventone() {
 
               {openIndex === 0 && (
                 <div className="border mt-2">
-                  <p className="p-2 hover:bg-gray-200 cursor-pointer">50g</p>
-                  <p className="p-2 hover:bg-gray-200 cursor-pointer">100g</p>
+                  <p className="p-2 hover:bg-gray-200 cursor-pointer">50ml</p>
+                  <p className="p-2 hover:bg-gray-200 cursor-pointer">100ml</p>
                 </div>
               )}
 
@@ -125,7 +126,7 @@ function Uneventone() {
             
             <div>
               <TiltedCard
-                imageSrc="/bs2.avif"
+                imageSrc="/un2.avif"
                 containerHeight="580px"
                 containerWidth="250px"
                 imageHeight="480px"
@@ -135,11 +136,12 @@ function Uneventone() {
               />
               <div style={{marginLeft:"-43px", marginTop:"-110px"}}> 
               <h2  className=" text-black mt-10 text-" style={{marginTop:"80px", fontSize:"20px" , marginBottom:"10px" }}>
-                SPF 50 Sunscreen
+                Vitamin C + E + Ferulic 16% Face Serum
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
-                Sun protection
+               Spots, Uneven Tone & Dull Skin
+
               </p>
 
               <div  className="icon" style={{display:"flex" , gap:"5px", marginBottom:"12px" , fontSize:"15px"}} >
@@ -166,19 +168,11 @@ function Uneventone() {
             </div>
 
             {/* PRODUCT 3 */}
-            {/* <div className="bg-white p-4">
-              <img src="/bs3.avif" className="w-full h-64 object-cover mb-4" />
-              <p>Salicylic Acid 2% Face Serum</p>
-              <p className="text-gray-500 text-sm">Acne, Oily Skin</p>
-              <p>★★★★☆</p>
-              <p>₹494 <span className="line-through text-gray-400">₹549</span></p>
-              <button className="w-full bg-black text-white py-2 mt-2">Select Size</button>
-            </div> */}
-
+         
             
             <div>
               <TiltedCard
-                imageSrc="/bs3.avif"
+                imageSrc="/un3.avif"
                 containerHeight="580px"
                 containerWidth="250px"
                 imageHeight="480px"
@@ -188,11 +182,11 @@ function Uneventone() {
               />
               <div style={{marginLeft:"-43px", marginTop:"-110px"}}> 
               <h2  className=" text-black mt-10 text-" style={{marginTop:"80px", fontSize:"20px" , marginBottom:"10px" }}>
-                Salicylic Acid 2% Face Serum
+              Glycolic Acid 8% Exfoliating Liquid
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
-                Acne, Oily Skin
+                Dull Skin, Uneven Tone & Texture
               </p>
 
               <div  className="icon" style={{display:"flex" , gap:"5px", marginBottom:"12px" , fontSize:"15px"}} >
@@ -206,7 +200,7 @@ function Uneventone() {
                 onClick={() => setOpenIndex(openIndex === 0 ? null : 0)}
                 className="bg-black text-white  " style={{padding:"6px", width:"340px" , marginTop:"23px"}}
               >
-                Add To Cart
+                Select Size
               </button>
 
               {openIndex === 0 && (
