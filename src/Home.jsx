@@ -481,7 +481,7 @@ function Home() {
           </div>
 
           <div className="relative">
-            <img src="/2.avif" className="w-full h-[250px] object-cover" style={{height:"220px" , width:"290px"}}/>
+            <img src="/2.avif" className="w-full h-[250px] object-cover" style={{height:"220px" , width:"290px"}} onClick={() => navigate("/Acne")}/>
             
             <p className="text-center mt-3"style={{fontSize:"17px" , fontFamily:"sans-serif", margin:"26px"}}>Acne Control</p>
           </div>
