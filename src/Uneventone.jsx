@@ -205,8 +205,8 @@ function Uneventone() {
 
               {openIndex === 0 && (
                 <div className="border mt-2">
-                  <p className="p-2 hover:bg-gray-200 cursor-pointer">50g</p>
-                  <p className="p-2 hover:bg-gray-200 cursor-pointer">100g</p>
+                  <p className="p-2 hover:bg-gray-200 cursor-pointer">50ml</p>
+                  <p className="p-2 hover:bg-gray-200 cursor-pointer">100ml</p>
                 </div>
               )}
 
@@ -219,7 +219,7 @@ function Uneventone() {
 
           <div>
               <TiltedCard
-                imageSrc="/bs4.avif"
+                imageSrc="/un4.avif"
                 containerHeight="580px"
                 containerWidth="250px"
                 imageHeight="480px"
@@ -229,11 +229,11 @@ function Uneventone() {
               />
               <div style={{marginLeft:"-43px", marginTop:"-110px"}}> 
               <h2  className=" text-black mt-10 text-" style={{marginTop:"80px", fontSize:"20px" , marginBottom:"10px" }}>
-                Vitamin C 10% Face Serum
+               Alpha Lipoic + Glycolic 7% Cleanser
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
-                Dullness, Spots & Loss of Elasticity
+               Dull & Rough Skin, Uneven Tone
               </p>
 
               <div  className="icon" style={{display:"flex" , gap:"5px", marginBottom:"12px" , fontSize:"15px"}} >
@@ -241,7 +241,7 @@ function Uneventone() {
               </div>
 
               
-              <p>₹269 <span className="line-through text-gray-400">₹299</span></p>
+              <p>₹379<span className="line-through text-gray-400">₹399</span></p>
 
               <button
                 onClick={() => setOpenIndex(openIndex === 0 ? null : 0)}
@@ -265,7 +265,7 @@ function Uneventone() {
 
           <div>
               <TiltedCard
-                imageSrc="/bs5.avif"
+                imageSrc="/un5.avif"
                 containerHeight="580px"
                 containerWidth="250px"
                 imageHeight="480px"
@@ -275,11 +275,11 @@ function Uneventone() {
               />
               <div style={{marginLeft:"-43px", marginTop:"-110px"}}> 
               <h2  className=" text-black mt-10 text-" style={{marginTop:"80px", fontSize:"20px" , marginBottom:"10px" }}>
-                Niacinamide 10% Face Serum
+               Granactive Retinoid 2% Face Cream
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
-                Acne Marks, Acne Prone & Oily Skin
+                Uneven tone, Wrinkles & Loss of elasticity
               </p>
 
               <div  className="icon" style={{display:"flex" , gap:"5px", marginBottom:"12px" , fontSize:"15px"}} >
@@ -287,7 +287,7 @@ function Uneventone() {
               </div>
 
               
-              <p>₹539 <span className="line-through text-gray-400">₹599</span></p>
+              <p>₹669 <span className="line-through text-gray-400">₹799</span></p>
 
               <button
                 onClick={() => setOpenIndex(openIndex === 0 ? null : 0)}
@@ -310,7 +310,7 @@ function Uneventone() {
 
           <div>
               <TiltedCard
-                imageSrc="/bs6.avif"
+                imageSrc="/un6.avif"
                 containerHeight="580px"
                 containerWidth="250px"
                 imageHeight="480px"
@@ -320,11 +320,11 @@ function Uneventone() {
               />
               <div style={{marginLeft:"-43px", marginTop:"-110px"}}> 
               <h2  className=" text-black mt-10 text-" style={{marginTop:"80px", fontSize:"20px" , marginBottom:"10px" }}>
-                Vitamin B5 10% Moisturizer
+                Glow & Protect Skincare Gift Set
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
-                Damaged Barrier, Oily & Dehydrated
+                Dull Skin & Sun Protection
               </p>
 
               <div  className="icon" style={{display:"flex" , gap:"5px", marginBottom:"12px" , fontSize:"15px"}} >
@@ -332,7 +332,7 @@ function Uneventone() {
               </div>
 
               
-              <p>₹315 <span className="line-through text-gray-400">₹349</span></p>
+              <p>₹1278 <span className="line-through text-gray-400">₹1349</span></p>
 
               <button
                 onClick={() => setOpenIndex(openIndex === 0 ? null : 0)}
