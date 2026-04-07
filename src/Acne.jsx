@@ -12,7 +12,7 @@ function Uneventone() {
     <div className="min-h-screen">
 
       {/* Heading */}
-      <h1 className="text-4xl font-semibold text-center" style={{marginTop:"30px"}}>Uneventone</h1>
+      <h1 className="text-4xl font-semibold text-center" style={{marginTop:"30px"}}>Acne Controll</h1>
       
 
       <div className="flex gap-1">
