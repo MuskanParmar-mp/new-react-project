@@ -20,7 +20,7 @@ function Uneventone() {
         {/* LEFT SIDEBAR */}
         <div className="w-1/4" style={{marginLeft:"80px", marginTop:"60px"}}>
 
-          <p style={{marginBottom:"11px", fontSize:"17px" , fontWeight:"bold"}}>Sort by:</p>
+          <p style={{marginBottom:"11px", fontSize:"17px" , fontWeight:"bold"}}>Sort by:-</p>
           <select className="border p-15 mb-6" style={{padding:"6px", width:"160px" , marginBottom:"60px"}}>
             <option>Featured</option>
             <option>Best Selling </option>
