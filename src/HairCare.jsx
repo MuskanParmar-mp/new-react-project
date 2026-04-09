@@ -50,7 +50,7 @@ function HairCare() {
           <h3 style={{marginBottom:"11px", fontSize:"17px" , fontWeight:"bold"}}>Type of Product</h3>
           <ul className="text-gray-900 space-y-1" style={{marginBottom:"77px"}}>
             <li style={{marginBottom:"8px"}}>Serum (5)</li>
-            <li style={{marginBottom:"8px"}}>Shampoo  (6)</li>
+            <li style={{marginBottom:"8px"}}>Shampo (6)</li>
             <li style={{marginBottom:"8px"}}>Shampoo Kit (6)</li>
             <li style={{marginBottom:"8px"}}>Hair Mask (19)</li>
           </ul>
