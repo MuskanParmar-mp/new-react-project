@@ -26,7 +26,7 @@ function Oiliness() {
             <option>Best Selling </option>
             <option>Price, low to High </option>
             <option>Date, Old to New</option>
-            <option>Date, new  to old</option>
+            <option>Date, new  To old</option>
             <option>Price, high  to low</option>
            
           </select>
