@@ -17,6 +17,7 @@ import Cart from "./Cart";
 import Counter from "./Counter";
 import Uneventone from "./Uneventone";
 import Acne from "./Acne";
+import Oiliness from "./Oiliness";
 
 
 
@@ -46,6 +47,7 @@ function App(){
       <Route path="/cart" element={<Cart cart={cart} />} />
       <Route path="/uneventone" element={<Uneventone/>} />
       <Route path="/acne" element={<Acne/>} />
+      <Route path="/oiliness" element={<Oiliness/>} />
       
       </Route>
      </Routes>
