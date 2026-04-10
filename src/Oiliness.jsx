@@ -12,7 +12,7 @@ function Oiliness() {
     <div className="min-h-screen">
 
       {/* Heading */}
-      <h1 className="text-4xl font-semibold text-center" style={{marginTop:"30px"}}>O</h1>
+      <h1 className="text-4xl font-semibold text-center" style={{marginTop:"30px"}}>Oiliness</h1>
       
 
       <div className="flex gap-1">
