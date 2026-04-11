@@ -19,7 +19,7 @@ import Uneventone from "./Uneventone";
 import Acne from "./Acne";
 import Oiliness from "./Oiliness";
 
-
+import Wrinkles from "./Wrinkles";
 
 
 function App(){
@@ -48,6 +48,7 @@ function App(){
       <Route path="/uneventone" element={<Uneventone/>} />
       <Route path="/acne" element={<Acne/>} />
       <Route path="/oiliness" element={<Oiliness/>} />
+      <Route path="/wrinkles" element={<Wrinkles/>} />
       
       </Route>
      </Routes>
