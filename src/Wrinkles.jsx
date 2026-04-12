@@ -218,7 +218,7 @@ function Wrinkles() {
 
           <div>
               <TiltedCard
-                imageSrc="/un4.avif"
+                imageSrc="/wri4.avif"
                 containerHeight="580px"
                 containerWidth="250px"
                 imageHeight="480px"
@@ -228,19 +228,19 @@ function Wrinkles() {
               />
               <div style={{marginLeft:"-43px", marginTop:"-110px"}}> 
               <h2  className=" text-black mt-10 text-" style={{marginTop:"80px", fontSize:"20px" , marginBottom:"10px" }}>
-               Alpha Lipoic + Glycolic 7% Cleanser
+               Multi-Peptides 10% Face Serum
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
-               Dull & Rough Skin, Uneven Tone
-              </p>
+               Skin Sagging, Fine Line & Wrinkles
+                            </p>
 
               <div  className="icon" style={{display:"flex" , gap:"5px", marginBottom:"12px" , fontSize:"15px"}} >
                 <FaStar /><FaStar /><FaStar /><FaStar /><FaStarHalfAlt />
               </div>
 
               
-              <p>₹379<span className="line-through text-gray-400">₹399</span></p>
+              <p>₹629<span className="line-through text-gray-400">₹699</span></p>
 
               <button
                 onClick={() => setOpenIndex(openIndex === 0 ? null : 0)}
