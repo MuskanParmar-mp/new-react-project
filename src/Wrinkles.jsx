@@ -274,7 +274,7 @@ function Wrinkles() {
               />
               <div style={{marginLeft:"-43px", marginTop:"-110px"}}> 
               <h2  className=" text-black mt-10 text-" style={{marginTop:"80px", fontSize:"20px" , marginBottom:"10px" }}>
-               Granactive Retinoid 2% Face Cream
+               Retinol 0.6% Face Serum
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
