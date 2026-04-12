@@ -264,7 +264,7 @@ function Wrinkles() {
 
           <div>
               <TiltedCard
-                imageSrc="/un5.avif"
+                imageSrc="/wri5.avif"
                 containerHeight="580px"
                 containerWidth="250px"
                 imageHeight="480px"
