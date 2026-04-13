@@ -320,7 +320,7 @@ function Wrinkles() {
               />
               <div style={{marginLeft:"-43px", marginTop:"-110px"}}> 
               <h2  className=" text-black mt-10 text-" style={{marginTop:"80px", fontSize:"20px" , marginBottom:"10px" }}>
-                Glow & Protect Skincaree Gift Set
+                Glow & Protect Skincare Gift Set
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
