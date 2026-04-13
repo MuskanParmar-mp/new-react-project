@@ -287,7 +287,7 @@ function Wrinkles() {
               </div>
 
               
-              <p>₹669 <span className="line-through text-gray-400">₹799</span></p>
+              <p>₹669 <span className="line-through text-gray-400">₹699</span></p>
 
               <button
                 onClick={() => setOpenIndex(openIndex === 0 ? null : 0)}
@@ -332,7 +332,7 @@ function Wrinkles() {
               </div>
 
               
-              <p>₹1278 <span className="line-through text-gray-400">₹1349</span></p>
+              <p>₹1278 <span className="line-through text-gray-400">₹1299</span></p>
 
               <button
                 onClick={() => setOpenIndex(openIndex === 0 ? null : 0)}
