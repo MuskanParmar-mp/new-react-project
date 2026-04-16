@@ -36,7 +36,7 @@ function Oiliness() {
             <li style={{marginBottom:"8px"}}>Skin (49)</li>
             <li style={{marginBottom:"8px"}}>Hair (12)</li>
             <li style={{marginBottom:"8px"}}>Body (5)</li>
-            <li style={{marginBottom:"8px"}}>Eye (1)</li>
+            <li style={{marginBottom:"8px"}}>Eye (2)</li>
             <li style={{marginBottom:"8px"}}>Baby (4)</li>
           </ul>
 
