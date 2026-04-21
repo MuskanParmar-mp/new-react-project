@@ -185,7 +185,7 @@ function Wrinkles() {
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
-                Uneven tone, Wrinkles & Loss of elasticityyy
+                Uneven tone, Wrinkles & Loss of elasticity
               </p>
 
               <div  className="icon" style={{display:"flex" , gap:"5px", marginBottom:"12px" , fontSize:"15px"}} >
