@@ -25,8 +25,8 @@ function Uneventone() {
             <option>Featured</option>
             <option>Best Selling </option>
             <option>Price, low to High </option>
-            <option>Date, Old to New</option>
-            <option>Date, new  to old</option>
+            <option>Date, Old To New</option>
+            <option>Date, New  To Old</option>
             <option>Price, high  to low</option>
            
           </select>
