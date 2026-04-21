@@ -24,10 +24,10 @@ function Uneventone() {
           <select className="border p-15 mb-6" style={{padding:"6px", width:"160px" , marginBottom:"60px"}}>
             <option>Featured</option>
             <option>Best Selling </option>
-            <option>Price, low to High </option>
+            <option>Price, Low To High </option>
             <option>Date, Old To New</option>
             <option>Date, New  To Old</option>
-            <option>Price, high  to low</option>
+            <option>Price, High  To Low</option>
            
           </select>
 
