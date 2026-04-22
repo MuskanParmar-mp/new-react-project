@@ -566,8 +566,8 @@ function HairCare() {
 
               {openIndex === 0 && (
                 <div className="border mt-2">
-                  <p className="p-2 hover:bg-gray-200 cursor-pointer">50g</p>
-                  <p className="p-2 hover:bg-gray-200 cursor-pointer">100g</p>
+                  <p className="p-2 hover:bg-gray-200 cursor-pointer">50ml</p>
+                  <p className="p-2 hover:bg-gray-200 cursor-pointer">100ml</p>
                 </div>
               )}
 
