@@ -373,7 +373,7 @@ function HairCare() {
               </div>
 
               
-              <p>₹494 <span className="line-through text-gray-400">₹549</span></p>
+              <p>₹494 <span className="line-through text-gray-400">₹599</span></p>
 
               <button
                 onClick={() => setOpenIndex(openIndex === 0 ? null : 0)}
