@@ -456,7 +456,7 @@ function HairCare() {
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
-                Redness, Sensitive & Irritated Skin
+                Redness, Sensitive & Irritated Skinn
               </p>
 
               <div  className="icon" style={{display:"flex" , gap:"5px", marginBottom:"12px" , fontSize:"15px"}} >
