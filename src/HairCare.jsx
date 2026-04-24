@@ -452,7 +452,7 @@ function HairCare() {
               />
               <div style={{marginLeft:"-43px", marginTop:"-110px"}}> 
               <h2  className=" text-black mt-10 text-" style={{marginTop:"80px", fontSize:"20px" , marginBottom:"10px" }}>
-                Sepicalm 3% Moisturizer
+                Sepicalm 3% Moisturizer4rr
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
