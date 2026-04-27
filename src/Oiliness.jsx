@@ -229,7 +229,7 @@ function Oiliness() {
               />
               <div style={{marginLeft:"-43px", marginTop:"-110px"}}> 
               <h2  className=" text-black mt-10 text-" style={{marginTop:"80px", fontSize:"20px" , marginBottom:"10px" }}>
-               Alpha Lipoic + Glycolic 7% Cleanser
+               Alpha Lipoic AND Glycolic 7% Cleanser
               </h2>
 
               <p className="text-gray-500 text-sm " style={{marginBottom:"18px",}}>
