@@ -55,8 +55,8 @@ function BestSellers() {
           <ul className="text-gray-900 space-y-1" style={{marginBottom:"77px"}}>
             <li style={{marginBottom:"8px"}}>Cleanser (5)</li>
             <li style={{marginBottom:"8px"}}>Toner (4)</li>
-            <li style={{marginBottom:"8px"}}>Moisturizer (4)</li>
-            <li style={{marginBottom:"8px"}}>SPF (6)</li>
+            <li style={{marginBottom:"8px"}}>Moisturizer (6)</li>
+            <li style={{marginBottom:"8px"}}>SPF (3)</li>
             <li style={{marginBottom:"8px"}}>Serum (19)</li>
           </ul>
 
