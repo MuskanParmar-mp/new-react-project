@@ -470,7 +470,7 @@ function HairCare() {
                 onClick={() => setOpenIndex(openIndex === 0 ? null : 0)}
                 className="bg-black text-white  " style={{padding:"6px", width:"340px" , marginTop:"23px"}}
               >
-                Select Size
+                Add to Cart
               </button>
 
               {openIndex === 0 && (
