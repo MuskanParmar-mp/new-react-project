@@ -241,7 +241,7 @@ function Oiliness() {
               </div>
 
               
-              <p>₹379<span className="line-through text-gray-400">₹399</span></p>
+              <p>₹349<span className="line-through text-gray-400">₹399</span></p>
 
               <button
                 onClick={() => setOpenIndex(openIndex === 0 ? null : 0)}
