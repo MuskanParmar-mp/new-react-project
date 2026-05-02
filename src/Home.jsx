@@ -121,7 +121,7 @@ function Home() {
       <div className=" w-330" style={{marginLeft:"85px", height:"800px"}}>
 
         <h1 className="text-3xl font-medium " style={{marginLeft:"9px" , marginTop:"9px", marginBottom:"34px"}}>
-          Our Best Sellers
+          Our Best Sellerss
         </h1>
 
         <div className="grid grid-cols-4 gap-10">
