@@ -599,7 +599,7 @@ function Home() {
       </h2>
 
       <p className="text-gray-500 text-sm mb-6">
-        Get App Exclusive Discounts & Offers poo
+        Get App Exclusive Discounts & Offers 
       </p>
 
       <button className="border border-black px-6 py-2 hover:bg-black hover:text-white transition">
