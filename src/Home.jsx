@@ -595,7 +595,7 @@ function Home() {
 
     <div className="text-center py-10">
       <h2 className="text-2xl font-medium mb-2">
-        Download Our App
+        Download Our App Now
       </h2>
 
       <p className="text-gray-500 text-sm mb-6">
