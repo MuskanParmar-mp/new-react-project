@@ -507,7 +507,7 @@ function Home() {
 
   {/* HEADING */}
   <h1 className="text-center text-3xl md:text-4xl font-semibold " style={{marginTop:"80px" , marginBottom:"30px"}}>
-    The future of personal care is here...
+    The future of personal care is here
   </h1>
 
   <p className="text-center text-gray-600     " style={{   textAlign:"center" , fontSize:"semibold" , marginBottom:"100px"}}>
