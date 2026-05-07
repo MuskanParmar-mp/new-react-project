@@ -511,7 +511,7 @@ function Home() {
   </h1>
 
   <p className="text-center text-gray-600     " style={{   textAlign:"center" , fontSize:"semibold" , marginBottom:"100px"}}>
-    Embrace Minimalist, where each element is chosen for it scientific merit, effective skincare solutions.
+    Embrace Minimalist, where each element is chosen for its scientific merit, effective skincare solutions.
   </p>
 
   {/* 4 ITEMS */}
