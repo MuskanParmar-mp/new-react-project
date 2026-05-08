@@ -513,6 +513,9 @@ function Home() {
   <p className="text-center text-gray-600     " style={{   textAlign:"center" , fontSize:"semibold" , marginBottom:"100px"}}>
     Embrace Minimalist, where each element is chosen for its scientific merit, effective skincare solutions.
   </p>
+   <p className="text-center text-gray-600     " style={{   textAlign:"center" , fontSize:"semibold" , marginBottom:"100px"}}>
+    Embrace Minimalist, where each element is chosen for its scientific merit, effective skincare solutions.
+  </p>
 
   {/* 4 ITEMS */}
   <div className="grid grid-cols-1 md:grid-cols-4 gap-9 text-center" style={{marginRight:"140px"}}>
