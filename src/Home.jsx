@@ -445,9 +445,7 @@ function Home() {
             <h3 className="absolute inset-0 flex items-center justify-center text-white text-2xl font-semibold">
               Body Care
             </h3>
-            <h3 className="absolute inset-0 flex items-center justify-center text-white text-2xl font-semibold">
-              Body Care
-            </h3>
+            
             <p className="text-center mt-3" style={{fontSize:"17px" , fontFamily:"sans-serif", margin:"26px"}}>Bath & Body</p>
           </div>
 
