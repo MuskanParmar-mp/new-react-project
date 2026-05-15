@@ -452,7 +452,7 @@ function Home() {
           <div className="relative">
             <img src="/li.webp" className="w-full h-[250px] object-cover" style={{height:"220px" , width:"290px"}}/>
             <h3 className="absolute inset-0 flex items-center justify-center text-white text-2xl font-semibold">
-              Lip Care
+              Lip Care care
             </h3>
             <p className="text-center mt-3"  style={{fontSize:"17px" , fontFamily:"sans-serif", margin:"26px"}}>Lip</p>
           </div>
